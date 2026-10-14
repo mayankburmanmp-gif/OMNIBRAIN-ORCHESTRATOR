@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+streamlit>=1.32
+requests>=2.31
+pydantic>=2.6
+numpy>=1.26
+pypdf>=4.0
+PyMuPDF>=1.23
+python-multipart>=0.0.9
+sentence-transformers>=2.6
